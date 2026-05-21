@@ -80,3 +80,5 @@ Zip the extension folder and send it.
 Other users can install it the same way using:
 
 chrome://extensions → Load unpacked
+
+![Alt Text](bild.png)
